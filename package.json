@@ -1,0 +1,9 @@
+{
+  "name": "magicmirror-hview-snapshot",
+  "version": "0.0.1",
+  "description": "Show HVIEW Camera from URL",
+  "main": "MMM-HVIEW-Snapshot.js",
+  "author": "Maja Aurora Pieper",
+  "license": "MIT",
+  "devDependencies": {}
+}
