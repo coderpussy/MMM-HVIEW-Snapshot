@@ -6,6 +6,10 @@ So i decided to develop my own module for it.
 
 [![Platform](https://img.shields.io/badge/platform-MagicMirror-informational)](https://MagicMirror.builders)
 
+## Example
+
+![mmm-hview-snapshot](https://user-images.githubusercontent.com/55058372/223711928-af9605b1-2085-48d8-9958-bdc82be459fe.jpg)
+
 ## ToDo
 
 Tell me what have to be done.
