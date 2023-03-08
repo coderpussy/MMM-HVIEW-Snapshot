@@ -44,10 +44,10 @@ To use this module, add it to the modules array in the `config/config.js` file:
 modules: [
 	{
         module: "MMM-HVIEW-Snapshot",
-		position: "bottom_left",	// This can be any of the regions.
+        position: "bottom_left",	// This can be any of the regions.
         config: {
             id: "camera01",
-			url: "http://192.168.XXX.XXX/action/snap?cam=0&user=admin&pwd=xxxxxxx",
+            url: "http://192.168.XXX.XXX/action/snap?cam=0&user=admin&pwd=xxxxxxx",
             animationSpeed: 500,
             updateInterval: 60000,
             wrapperWidth: "640px",
@@ -80,7 +80,7 @@ The following properties can be configured:
 
 ### Displaying the MMM-HVIEW-Snapshot module
 
-Start and stop your Magic Mirror (your exact method may vary)
+Stop and start your Magic Mirror (your exact method may vary)
 
 ````sh
 pm2 restart mm
