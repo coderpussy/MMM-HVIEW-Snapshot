@@ -10,6 +10,8 @@ So i decided to develop my own module for it.
 
 ![mmm-hview-snapshot](https://user-images.githubusercontent.com/55058372/223711928-af9605b1-2085-48d8-9958-bdc82be459fe.jpg)
 
+This image shows you how this module could work.
+
 ## ToDo
 
 Tell me what have to be done.
