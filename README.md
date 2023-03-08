@@ -42,7 +42,7 @@ Type `git status` to see your changes, if there are any, you can reset them with
 To use this module, add it to the modules array in the `config/config.js` file:
 ````js
 modules: [
-	{
+    {
         module: "MMM-HVIEW-Snapshot",
         position: "bottom_left",	// This can be any of the regions.
         config: {
@@ -57,7 +57,7 @@ modules: [
             grayscale: 1,
             scale: "0.33"
         }
-	}
+    }
 ]
 ````
 
