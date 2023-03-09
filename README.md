@@ -2,7 +2,7 @@
 
 This is a module for displaying snapshots from a H.VIEW security camera in a iframe.
 There many different modules available to do the same, but no module fits to my needs.
-So i decided to develop my own module for it.
+So i decided to develop my own module for it. 【ツ】
 
 [![Platform](https://img.shields.io/badge/platform-MagicMirror-informational)](https://MagicMirror.builders)
 
@@ -91,3 +91,9 @@ Stop and start your Magic Mirror (your exact method may vary)
 ````sh
 pm2 restart mm
 ````
+
+ℓ٥ﻻ ﻉ√٥υ all ❤◦.¸¸.◦✿
+
+## About the author
+
+This project is maintained by [Maja Aurora Pieper](https://github.com/coderpussy).
