@@ -92,6 +92,7 @@ Stop and start your Magic Mirror (your exact method may vary)
 pm2 restart mm
 ````
 
+
 ℓ٥ﻻ ﻉ√٥υ all ❤◦.¸¸.◦✿
 
 ## About the author
