@@ -54,7 +54,6 @@ modules: [
         config: {
             id: "camera01",
             url: "http://192.168.XXX.XXX/action/snap?cam=0&user=admin&pwd=xxxxxxx",
-            animationSpeed: 500,
             updateInterval: 60000,
             wrapperWidth: "640px",
             wrapperHeight: "360px",
@@ -75,7 +74,6 @@ The following properties can be configured:
 | ------ | -----------
 | `id` | A unique id for multiple instances of this module. <br><br> **Example:** `'camera01'` <br> **Default value:** `'camera01'`
 | `url` | URL of this H.VIEW camera. <br><br> **Example:** `'http://192.168.XXX.XXX/action/snap?cam=0&user=admin&pwd=xxxxxxx'` <br> **Default value:** `''`
-| `animationSpeed` | How fast new snapshot will be displayed. <br><br> **Example:** `500` <br> **Default value:** `0`
 | `updateInterval` | Duration time to update snapshot. <br><br> **Example:** `60000` <br> **Default value:** `60000`
 | `wrapperWidth` | Outer iframe wrapper width. <br><br> **Example:** `'640px'` <br> **Default value:** `'640px'`
 | `wrapperHeight` | Outer iframe wrapper height. <br><br> **Example:** `'360px'` <br> **Default value:** `'360px'`
